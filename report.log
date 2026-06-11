@@ -1,0 +1,11 @@
+2026-06-10 19:21:17,973 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-06-10 19:25:30,897 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.7}
+2026-06-10 19:25:30,998 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.8709537279718091, best pos: [15.64601197 12.75402235 14.0942284  15.7380278  12.44311491 11.43856372
+ 51.73795719 99.68990401 33.19314964 15.17503728]
+2026-06-11 11:28:45,804 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.7}
+2026-06-11 11:28:45,831 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -1.4961708108724032, best pos: [13.91961562 30.21741728 14.7407689  13.20604905  2.72341577  4.59542808
+  6.19579729 11.47935119 13.24000223 41.72698898]
