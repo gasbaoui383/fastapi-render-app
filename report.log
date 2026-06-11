@@ -9,3 +9,4 @@ pip install python-multipart
 2026-06-11 11:28:45,804 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 2.0, 'c2': 2.0, 'w': 0.7}
 2026-06-11 11:28:45,831 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -1.4961708108724032, best pos: [13.91961562 30.21741728 14.7407689  13.20604905  2.72341577  4.59542808
   6.19579729 11.47935119 13.24000223 41.72698898]
+2026-06-11 19:29:59,542 - watchfiles.main - INFO - 5 changes detected
